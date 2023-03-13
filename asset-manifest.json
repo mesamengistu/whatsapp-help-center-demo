@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/whatsapp-help-center-demo/static/css/main.3b6804af.css",
+    "main.js": "/whatsapp-help-center-demo/static/js/main.fead8baa.js",
+    "static/js/787.2b7c45ff.chunk.js": "/whatsapp-help-center-demo/static/js/787.2b7c45ff.chunk.js",
+    "static/media/whatsappDesktop.png": "/whatsapp-help-center-demo/static/media/whatsappDesktop.46e5790fd6dabfc65033.png",
+    "static/media/whatsappMobile.jpg": "/whatsapp-help-center-demo/static/media/whatsappMobile.ec0549d375e323e08428.jpg",
+    "index.html": "/whatsapp-help-center-demo/index.html",
+    "main.3b6804af.css.map": "/whatsapp-help-center-demo/static/css/main.3b6804af.css.map",
+    "main.fead8baa.js.map": "/whatsapp-help-center-demo/static/js/main.fead8baa.js.map",
+    "787.2b7c45ff.chunk.js.map": "/whatsapp-help-center-demo/static/js/787.2b7c45ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b6804af.css",
+    "static/js/main.fead8baa.js"
+  ]
+}
