@@ -1,0 +1,35 @@
+.nav-parent {
+  color: white;
+  font-weight: bold;
+  height: 50px;
+  background-color: rgb(50, 132, 105);
+}
+.nav-parent ul li {
+  margin-top: 1ex;
+}
+.whatsapp-icon {
+  font-size: 35px;
+}
+.FaBars-menu {
+  font-size: 25px;
+  color: black;
+  position: relative;
+  left: 8px;
+  top: 6px;
+  -webkit-text-stroke: 1px black !important;
+}
+.menu {
+  background-color: white;
+  width: 40px;
+  height: 40px;
+}
+@media only screen and (max-width: 600px) {
+  .select-language {
+    display: none !important;
+  }
+}
+@media only screen and (min-width: 576px) {
+  .nav-icons {
+    display: none !important;
+  }
+}

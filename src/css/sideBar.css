@@ -1,0 +1,47 @@
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+ul li {
+  font-size: large;
+  font-weight: 500;
+  height: 60px;
+}
+.menu-elements:hover {
+  background-color: rgb(240, 242, 245);
+}
+.icon {
+  width: 35px;
+  height: 35px;
+  background-color: aliceblue;
+}
+.icon svg {
+  color: rgb(50, 132, 105);
+  position: relative;
+  left: 7px;
+}
+.cursor-down-parent {
+  position: relative;
+  right: -10px;
+}
+.cursor-down {
+  font-size: 30px;
+  color: rgb(87, 86, 86);
+}
+.main-sid-bar-shadow {
+  border: 1px 0px solid #333;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  clip-path: inset(0px -15px 0px 0px);
+}
+
+@media only screen and (max-width: 576px) {
+  .search-content {
+    display: none !important;
+  }
+}
+.control-expand {
+  position: relative;
+  top: 0;
+  z-index: 100;
+}
