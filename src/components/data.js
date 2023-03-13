@@ -35,7 +35,7 @@ export const sideBarData = {
     childIds: [],
     iconName: "",
     isChildVisible: false,
-    url: "/how-tologin-info",
+    url: "/whatsapp-help-center-demo/how-tologin-info",
   },
   4: {
     id: 4,

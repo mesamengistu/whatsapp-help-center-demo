@@ -33,7 +33,10 @@ function App() {
         </div>
         <div className=" col-lg-8">
           <Routes>
-            <Route path="/*" element={<SelfRouter />}></Route>
+            <Route
+              path="whatsapp-help-center-demo/*"
+              element={<SelfRouter />}
+            ></Route>
           </Routes>
           <div className="row mt-lg-5 pt-lg-5">
             <Footer />
